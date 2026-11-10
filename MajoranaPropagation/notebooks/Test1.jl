@@ -1,5 +1,5 @@
 using Pkg
-Pkg.activate("path/to/project")
+Pkg.activate(joinpath(@__DIR__, ".."))
 
 using MajoranaPropagation
 

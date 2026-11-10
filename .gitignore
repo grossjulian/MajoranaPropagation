@@ -1,0 +1,18 @@
+# OS / editor
+.DS_Store
+__MACOSX/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Julia / CondaPkg
+.CondaPkg/
+
+# Simulation output
+data/
+*.jld2
+*.jls
+logs/
